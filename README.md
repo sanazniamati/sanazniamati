@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanaz Niamati</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ce44b3f848998271c133c7dcba1540cac117520be69e952e5af2831b403f063b/68747470733a2f2f632e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"/>
+
+- 🌱 I’m currently learning **Nextjs 13**
 
 - 📫 How to reach me **sanaz.niamati@yahoo.com**
 
