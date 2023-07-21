@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanaz Niamati</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ce44b3f848998271c133c7dcba1540cac117520be69e952e5af2831b403f063b/68747470733a2f2f632e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966"/>
 
 - 📫 How to reach me **sanaz.niamati@yahoo.com**
 
